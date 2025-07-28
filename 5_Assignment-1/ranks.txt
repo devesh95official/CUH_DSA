@@ -1,0 +1,34 @@
+Rank   User                              Score
+1      Harithasri Siddabattula           400
+2      sainikhi lpatel11                 400
+3      Gopu 16                           400
+4      Mahesh Kumar Pothu                400
+5      Devesh Singh                      400
+6      Sam Sung                          367
+7      piyush null                       367
+8      Poojitha Reddy Thurimerla          350
+9      satya chaitanya narayana eerati   333
+10     Abhishek Singh                    300
+11     Harsh null                        300
+12     _shailesh_bandari_ null            300
+13     Reddy Srinath                     300
+14     dasari anvidha                    300
+15     Venky Ganaparapu                  200
+16     Umesh Certification               200
+17     Saniya Fathima                    200
+18     Soumya Manche                     200
+19     Mahesh G                          167
+20     Ankita Chaudhary                  150
+21     Mayuri Mayuri                     100
+22     Phaneendravarma Pothuri           100
+23     Nithish null                      100
+24     kambley lohitha                   100
+25     Saniya Tabassum                   33
+26     Renuka Koneti                     0
+27     Arun Yadav                        0
+28     Abhi Kalam                        0
+29     Thallada Srikoushk                0
+30     vinodmud hiraj566                 0
+31     gadebhav yasri28                  0
+32     avulama dhu129                    0
+33     Venky Koluguri                    0
