@@ -1,0 +1,1 @@
+ (num % i == 0 && isPrime(i))
