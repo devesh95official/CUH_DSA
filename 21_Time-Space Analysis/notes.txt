@@ -1,0 +1,11 @@
+### Quick Study Notes
+- **O(1)**: Constant time — operations that do not scale with input size, e.g., direct indexing in an array.
+- **O(log n)**: Halving the problem each step, e.g., binary search in a sorted array.
+- **O(n)**: Linear scans over all elements, e.g., sum, find max.
+- **O(n log n)**: Divide-and-conquer sorts like merge sort and quicksort average case.
+- **O(n^2)**: Pairwise comparisons or nested loops over the same collection, e.g., bubble sort, selection sort.
+- **O(n^3)**: Triple nested loops, common in naive matrix multiplication.
+- **O(2^n)**: Exponential growth, e.g., naive recursion over subsets or Fibonacci.
+- **O(n!)**: Permutations/arrangements — grows extremely fast; only feasible for very small n.
+
+Space complexity depends on data structures and recursion depth. For example, merge sort uses O(n) extra space; naive Fibonacci uses O(n) call stack depth.
